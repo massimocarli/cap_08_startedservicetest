@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">StartedServiceTest</string>
+  <string name="start_service">START SERVICE</string>
+  <string name="stop_service">STOP SERVICE</string>
+  <string name="service_description">Counter Service for Testing Started Services</string>
+  <string name="multi_service_description">Counter Service for Testing Started Services with multiple requests</string>
+  <string name="intent_service_description">Counter Service as IntentService</string>
+</resources>
